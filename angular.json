@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "component-store"
+  "defaultProject": "component-store",
+  "cli": {
+    "analytics": "b1e0bcd9-d1e0-4de4-be67-d76a8555f545"
+  }
 }
